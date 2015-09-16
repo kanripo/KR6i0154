@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛為優填王說王法政論經
+#+DATE: 2015-08-30 20:11:20.271272
+#+PROPERTY: JUAN 0
